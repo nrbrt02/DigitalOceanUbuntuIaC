@@ -17,7 +17,7 @@ resource "digitalocean_droplet" "terramino" {
  ### Here Are the Installtion guide.
 
 1. Install Terraform
-2. make make an assh on your computer
+2. make make an ssh on your computer(make sure to name it terramin)
 3. copy your public key into this projects file folder
 4. add you digital ocean token to your computer
 5. run terraform apply
